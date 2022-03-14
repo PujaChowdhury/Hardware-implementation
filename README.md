@@ -17,3 +17,18 @@
     d. Trying to measure amplitude, spectrum in host.vi.
     
 
+
+FFT_prediction_v5:
+
+a. FFT based prediction in labVIEW FPGA.
+
+b. data send from host
+
+c. target named as FFT.vi used for FFT function. From FFT function real and imaginary value collected.
+
+d. compile successefully
+
+e. implementation on a cRIO-9035
+
+d. Collecting real and imaginary value from target (using FIFO) and next steps of FFT based algorithum is in host.vi.
+
